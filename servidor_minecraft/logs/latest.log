@@ -43,3 +43,7 @@
 [13Feb2025 21:53:28.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: usurio joined the game
 [13Feb2025 21:54:29.634] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: usurio lost connection: Disconnected
 [13Feb2025 21:54:29.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: usurio left the game
+[13Feb2025 21:59:56.257] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: usurio[/127.0.233.157:47959] logged in with entity id 1839 at (-128.75518296873219, 73.0, 435.97400053776545)
+[13Feb2025 21:59:56.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: usurio joined the game
+[13Feb2025 22:00:07.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the weather to clear
+[13Feb2025 22:01:36.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: usurio fell out of the world
